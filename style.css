@@ -1,0 +1,90 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1509266272358-7701da638078?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=633&q=80");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+h1 {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+p{
+      color: rgb(237, 247, 196);
+      border-radius: ;
+  }
+  
+.logoLinkedin {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+body > img {
+    margin: 0 10px;
+  }
+  
+img {
+    max-height: 300px;
+  }
+.adicionar{
+    color: antiquewhite; 
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+}
+.h2{
+    font-size: 18px;
+
+}
+.inputbox{
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+  
+}
+
+#nome{
+    color: antiquewhite; 
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+}
+#valor{
+    color: antiquewhite; 
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+}
+#listaLivros img {
+  margin: 10px;
+  max-height: 250px;
+}
+button{
+    background-color: antiquewhite; 
+    font-size: 20px;
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+
+}
+
+
+footer{
+    color:bisque;
+    font-size: 15px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+}
